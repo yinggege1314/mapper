@@ -28,6 +28,7 @@ public class MapperApplicationTests {
         imgupload.setName("xiaopangzi");
         imgupload.setUrl("/1.jpg");
         imguploadService.addImg(imgupload);
+        System.out.println("ssssddd");
     }
 
 }
