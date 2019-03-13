@@ -29,6 +29,7 @@ public class MapperApplicationTests {
         imgupload.setUrl("/1.jpg");
         imguploadService.addImg(imgupload);
         System.out.println("ssssddd");
+        System.out.println("456");
     }
 
 }
